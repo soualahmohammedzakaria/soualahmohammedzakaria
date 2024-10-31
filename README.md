@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soualah Mohammed Zakaria</h1>
 <h3 align="center">A passionate Computer Science student and programmer.</h3>
 
-- 🌱 I’m currently learning **Mobile development.**
-
 - 📫 How to reach me **mz_soualahmohammed@esi.dz**
 
 <h3 align="left">Connect with me:</h3>
